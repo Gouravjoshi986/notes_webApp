@@ -1,0 +1,1 @@
+## It is a small learning project about creating a notes app which uses local storage 
